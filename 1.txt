@@ -8,3 +8,4 @@ creating a new branch is quick and simple
 =======
 create a new branch named by lht1
 >>>>>>> lht1  --- accept
+fix bug 1
